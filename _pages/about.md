@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year master student from business school, HKUST. My research interest includes asset pricing, micro marketstructure, and macro finance. Prior to that, I graduated from Beijing Normal University as a math major undergraduate.
+I am a first-year research-based master's student at HKUST's business school. My research interests include trade, international economics and international finance. Prior to that, I graduated from Beijing Normal University as a math major.
